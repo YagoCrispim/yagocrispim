@@ -21,7 +21,7 @@
 
 ### My blog(WIP):
 
-- [yagoc.com.br](yagoc.com.br)
+- [yagoc.com.br](https://www.yagoc.com.br)
 
 
 
