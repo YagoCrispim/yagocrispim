@@ -21,7 +21,7 @@
 
 ### My blog(WIP):
 
-- [yagoc.com.br](https://www.yagoc.com.br)
+- <a href="https://www.yagoc.com.br" target="_blank">yagoc.com.br</a>
 
 
 
