@@ -1,16 +1,31 @@
 ### Hi there 👋
 
-<!--
-**YagoCrispim/YagoCrispim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="mailto:yagocrispim.r.s@gmail.com?Subject=Contato&body=Ola,%20Yago"><img src="./images/mail.svg" width="30"></img></a>
+<a href="https://www.linkedin.com/in/yago-crispim-66b01619b/"><img src="./images/linkedin.svg" width="30"></img></a>
+<a href="https://twitter.com/Souza_R96"><img src="./images/twitter.svg" width="30"></img></a>
+<a href="https://www.instagram.com/yago.crs/"><img src="./images/instagram.svg" width="30"></img></a>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🆙 I’m currently learning and improving: SQL, ReactJS, NextJS, React Native
+- 📣 I'm looking for help to improve my English
+- 👩🏻‍🎓 Undergraduate student: Systems Analysis and Development
+- 💻 Programming: JavaScript, Typescript, NodeJS, Express, ReactJS, SQL, PHP
+- 🗃 DB's: MySQL, PostgreSQL
+- ⚙️ Others techs: HTML5, CSS3, React Native, Docker
+
+
+
+### My blog(WIP):
+
+- [yagoc.com.br](yagoc.com.br)
+
+
+
+<br>
+
+> "Ex nihilo nihil fit." - Parmenides
+
