@@ -12,7 +12,6 @@
 
 - 🆙 I’m currently learning and improving: SQL, ReactJS, NextJS, React Native
 - 📣 I'm looking for help to improve my English
-- 👩🏻‍🎓 Undergraduate student: Systems Analysis and Development
 - 💻 Programming: JavaScript, Typescript, NodeJS, Express, ReactJS, SQL, PHP
 - 🗃 DB's: MySQL, PostgreSQL
 - ⚙️ Others techs: HTML5, CSS3, React Native, Docker
