@@ -16,14 +16,6 @@
 - 🗃 DB's: MySQL, PostgreSQL
 - ⚙️ Others techs: HTML5, CSS3, React Native, Docker
 
-
-
-### My blog(WIP):
-
-- <a href="https://www.yagoc.com.br" target="_blank">yagoc.com.br</a>
-
-
-
 <br>
 
 > "Ex nihilo nihil fit." - Parmenides
