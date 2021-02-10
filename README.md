@@ -10,7 +10,7 @@
 
 
 
-- 🆙 I’m currently learning and improving: SQL, ReactJS, NextJS, React Native
+- 🆙 I’m currently learning and improving: SQL, ReactJS, NextJS, React Native, C/C++
 - 📣 I'm looking for help to improve my English
 - 💻 Programming: JavaScript, Typescript, NodeJS, Express, ReactJS, SQL, PHP
 - 🗃 DB's: MySQL, PostgreSQL
