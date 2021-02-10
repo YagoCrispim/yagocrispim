@@ -18,5 +18,9 @@
 
 <br>
 
+### My blog(WIP):
+
+- <a href="https://www.yagoc.com.br" target="_blank">yagoc.com.br</a>
+
 > "Ex nihilo nihil fit." - Parmenides
 
