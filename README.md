@@ -6,7 +6,7 @@
 </p>
 
 - 🆙 I’m currently learning and improving: C/C++
-- 💻 Programming: JavaScript, Typescript, NodeJS, Express, ReactJS
+- 💻 Programming: JavaScript, Typescript, NodeJS, Express, ReactJS, NextJS
 - 🗃 DB's: MySQL, PostgreSQL
 - ⚙️ Others techs: HTML5, CSS3, React Native, Docker, Redux
 
