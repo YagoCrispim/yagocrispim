@@ -7,7 +7,6 @@ Skills: Python / JavaScript / TypeScript / NodeJS / Express / ReactJS / React Na
 - 🌱 I’m currently learning and improving: Rust. 
 - 👯 I’m looking to collaborate with tech community. 
 - 🤔 I’m looking for help with English 
-- ⚡ Fun fact: I love to play guitar and study about game development. 
 
 
 LinkedIn : https://www.linkedin.com/in/yago-crispim-66b01619b/
