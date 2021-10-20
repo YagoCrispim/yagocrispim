@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Yago, FullStack developer from 🇧🇷!
 
-- 🖥️ I’m currently learning: Microservice Architecture and related topics. 
+- 🖥️ I’m currently learning: Microservices Architecture and related topics. 
 - 👯 I’m looking to collaborate with tech community. 
 
 ### Socials
