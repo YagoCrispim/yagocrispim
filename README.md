@@ -1,28 +1,15 @@
-## Hi there 👋
-I'm Yago, FullStack developer from 🇧🇷!
+## Hi there, I'm Yago Crispim!
+#### I'm Software Engineer from São Paulo, Brazil! 👋
 
-- 🖥️ I’m currently learning: Microservices Architecture and related topics. 
-- 👯 I’m looking to collaborate with tech community. 
+- 🖥️ I’m currently learning: Cyber security... And sometimes Java. 👀
+- 💻 ```JavaScipt``` and ```Python``` developer.
+- ⌨️ ReactJS | React Native | NodeJS | Python
+## Socials
+<a href="https://www.linkedin.com/in/yago-crispim-66b01619b/" target="blank" rel="noopener noreferrer">```LinkedIn```</a>
+<a href="https://twitter.com/Souza_R96" target="blank" rel="noopener noreferrer">```Twitter```</a>
 
-### Socials
-<h1>
-<a href="https://www.linkedin.com/in/yago-crispim-66b01619b/" target="blank" rel="noopener noreferrer"><img width='40px'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-<a href="https://twitter.com/Souza_R96" target="blank" rel="noopener noreferrer"><img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /></a>
-</h1>
+<br />
 
-### I use:
-<h1>
-  <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-  <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" />
-  <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-  <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-</h1>
+## Stats 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YagoCrispim&show_icons=true)
