@@ -1,7 +1,6 @@
 ## Hi there, I'm Yago Crispim!
 #### I'm Software Engineer from São Paulo, Brazil! 👋
 
-- 🖥️ I’m currently learning: Cyber security... And sometimes Java. 👀
 - 💻 ```JavaScipt``` and ```Python``` developer.
 - ⌨️ ReactJS | React Native | NodeJS | Python
 ## Socials
