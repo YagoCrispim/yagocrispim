@@ -4,14 +4,14 @@
 - 💻 Full-stack developer.
 - ⌨️ React Native | ReactJS | VueJS | Angular | JavaScript | Python | Java
 ## Socials
-<a href="https://www.linkedin.com/in/yago-crispim-66b01619b/" target="_blank" rel="noopener noreferrer">```LinkedIn```</a>
-<a href="https://twitter.com/Souza_R96" target="_blank" rel="noopener noreferrer">```Twitter```</a>
+<a href="https://www.linkedin.com/in/yago-crispim-66b01619b/">```LinkedIn```</a>
+<a href="https://twitter.com/Souza_R96">```Twitter```</a>
 
 <br />
 
 ## Projects
-<a href="https://diobis-web.vercel.app/frontend" target="_blank" rel="noopener noreferrer">```Diobis web```</a>
-<a href="https://mobile.twitter.com/tech_diobis" target="_blank" rel="noopener noreferrer">```Diobis Twitter bot```</a>
+<a href="https://diobis-web.vercel.app/frontend">```Diobis web```</a>
+<a href="https://mobile.twitter.com/tech_diobis">```Diobis Twitter bot```</a>
 
 ## Stats 
 
