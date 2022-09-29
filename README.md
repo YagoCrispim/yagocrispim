@@ -1,8 +1,8 @@
 ## Hi there, I'm Yago Crispim!
 #### I'm Software Engineer from São Paulo, Brazil! 👋
 
-- 🖵 React Native | ReactJS | VueJS | Angular
-- 🖥 JS/TS | Python | Lua | Rust
+- 🖌️🔲 React Native | ReactJS | VueJS | Angular
+- 🖥⚙️ JS/TS | Python | Lua | Rust
 
 ## Socials
 <a href="https://www.linkedin.com/in/yago-crispim-66b01619b/">```LinkedIn```</a>
