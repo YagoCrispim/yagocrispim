@@ -5,7 +5,6 @@
 - 🖥⚙️ JS/TS | Python | Lua | Rust
 
 ## Socials
-<a href="https://www.linkedin.com/in/yago-crispim-66b01619b/">```LinkedIn```</a>
 <a href="https://twitter.com/Souza_R96">```Twitter```</a>
 
 <br />
