@@ -6,6 +6,7 @@
 
 ## Socials
 <a href="https://twitter.com/Souza_R96">```Twitter```</a>
+<a href="https://www.linkedin.com/in/yagocrispim/">```LinkedIn```</a>
 
 <br />
 
