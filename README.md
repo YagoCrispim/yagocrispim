@@ -5,9 +5,9 @@
 - 🖥⚙️ JS/TS | Python | Lua | Rust
 
 ## Socials
-<a href="https://yagoc.dev">```Blog```</a>
-<a href="https://twitter.com/Souza_R96">```Twitter```</a>
-<a href="https://www.linkedin.com/in/yagocrispim/">```LinkedIn```</a>
+<a href="https://yagoc.dev" target="_blank">```Blog```</a>
+<a href="https://twitter.com/Souza_R96" target="_blank">```Twitter```</a>
+<a href="https://www.linkedin.com/in/yagocrispim/" target="_blank">```LinkedIn```</a>
 
 <br />
 
