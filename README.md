@@ -1,9 +1,6 @@
 ## Hi there, I'm Yago Crispim!
 #### I'm Software Engineer from São Paulo, Brazil! 👋
 
-- 🖌️🔲 React Native | ReactJS | VueJS | Angular | Vanilla
-- 🖥⚙️ JS/TS | Python | Lua | Rust
-
 ## Socials
 <a href="https://yagoc.dev" target="_blank">```Blog```</a>
 <a href="https://twitter.com/Souza_R96" target="_blank">```Twitter```</a>
