@@ -11,6 +11,6 @@
 <a href="https://diobis-web.vercel.app/frontend">```Diobis web```</a>
 <a href="https://mobile.twitter.com/tech_diobis">```Diobis Twitter bot```</a>
 
-## Stats 
+<!-- ## Stats -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YagoCrispim&show_icons=true)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YagoCrispim&show_icons=true) -->
